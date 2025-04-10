@@ -5,7 +5,8 @@
 ### 🎯 Objective:
 Provision a **local Docker container** using **Terraform**.
 
----**Terraform** is an open-source Infrastructure as Code (IaC) tool created by **HashiCorp**. It allows you to define and provision infrastructure using a high-level configuration language called **HashiCorp Configuration Language (HCL)** or optionally JSON.
+**Terraform**
+ Terraform is an open-source Infrastructure as Code (IaC) tool created by **HashiCorp**. It allows you to define and provision infrastructure using a high-level configuration language called **HashiCorp Configuration Language (HCL)** or optionally JSON.
 
 ### 🔧 What Terraform Does
 Terraform helps manage infrastructure across multiple cloud providers (like AWS, Azure, Google Cloud), as well as services like Kubernetes, GitHub, or even on-premises setups. It can:
